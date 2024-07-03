@@ -4,9 +4,6 @@ The open-source AI chat app for everyone.
 
 <img src="./public/readme/screenshot.png" alt="Chatbot UI" width="600">
 
-## Demo
-
-View the latest demo [here](https://x.com/mckaywrigley/status/1738273242283151777?s=20).
 
 ## Updates
 
@@ -287,6 +284,4 @@ Once deployed, you should be able to use your hosted instance of Chatbot UI via 
 
 We are working on a guide for contributing.
 
-## Contact
 
-Message Mckay on [Twitter/X](https://twitter.com/mckaywrigley)
